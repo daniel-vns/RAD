@@ -1,3 +1,9 @@
+DANIEL VIANA NOVAIS SILVA
+MATRICULA: 202208703071
+UNIDADE: ESTÁCIO RECIFE
+DISCIPLINA: DESENVOLVIMENTO RÁPIDO DE APLICAÇÕES COM PYTHON
+
+
 AULA 9
 
 Questão 1) A linguagem Python é uma escolha bastante interessante para desenvolver diversas
